@@ -1,0 +1,12 @@
+default:
+  # 服务监听端口
+  listen: 8089
+  log_dir: /Users/jimingyu_1/Documents/stu/rbac-demo/log
+
+# 数据库地址信息
+mysql:
+  user: root
+  password: root
+  host: 127.0.0.1
+  port: 3306
+  database: rbac

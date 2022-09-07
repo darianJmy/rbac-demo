@@ -1,0 +1,17 @@
+
+###
+POST http://localhost:8089/login
+
+{"name":"jixingxing111","password":"admin"
+}
+
+###
+GET http://localhost:8089/metrics
+
+
+###
+POST http://localst:8089/as
+Content-Type: 
+
+{
+}
